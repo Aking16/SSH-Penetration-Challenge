@@ -14,7 +14,6 @@ async function readLines(filePath: string): Promise<string[]> {
   return lines;
 }
 
-// Append a line to successes.txt safely
 function logSuccess(line: string) {
   fs.appendFileSync('success.txt', line + '\n');
 }
