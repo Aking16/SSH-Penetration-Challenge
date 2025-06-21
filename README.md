@@ -1,4 +1,4 @@
-# ame-alidiadi-project
+# SSH Penetration Challenge
 
 To install dependencies:
 

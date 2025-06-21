@@ -1,5 +1,5 @@
 {
-  "name": "ame-alidiadi-project",
+  "name": "ssh-penetration-challenge",
   "module": "index.ts",
   "type": "module",
   "private": true,
